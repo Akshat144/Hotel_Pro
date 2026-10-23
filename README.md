@@ -70,6 +70,4 @@ The intended production architecture:
 - **Real-time availability:** shared updates across devices so every desk sees the same room status.
 - **Extras:** housekeeping status, rate plans and seasonal pricing, invoices as PDF, and reporting.
 
-## License
 
-Add a license of your choice (for example MIT) before sharing or distributing this project.
